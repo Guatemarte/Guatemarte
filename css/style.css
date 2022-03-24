@@ -1,0 +1,51 @@
+html, body {
+    
+    background-image: url('../img/sfondo.jpg');
+    
+    text-align: center;
+    
+}
+
+#container {
+    
+    display: inline-block;
+    position: relative;
+    width: 550;
+    
+}
+
+#logo-img {
+  background: url('img/logo1.png') no-repeat;
+  width: 500px;
+  height: 501px;
+  margin: 10px 15px;
+    display: block;
+}
+
+#titolo {
+    
+    color: rgb(255, 255, 10);
+    font-size: 90px;
+    font-family: 'Grandstander', cursive;
+    
+}
+
+#titolo2 {
+    
+    color: yellow;
+    font-size: 60px;
+    font-family: 'Grandstander', cursive;
+}
+
+#Text {
+    align-content: center;
+    color: yellow;
+    width: 500px;
+    margin: 50px 30px 30px 30px;
+    padding: 10px;
+    border: 3px solid yellow;
+    border-radius: 8px;
+    font-size: 20px;
+    font-family: 'Zilla Slab', serif;
+}
+
